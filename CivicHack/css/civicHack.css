@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #040D13;
+}
+header {
+    padding:0 40px;
+}
+.logo {
+    height:30px; 
+    width:30px;
+}
+#colorWhite {
+    color: white;
+}
